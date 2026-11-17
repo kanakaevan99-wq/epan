@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/berita/[id]/+page.svelte";
